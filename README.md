@@ -2,7 +2,7 @@
 
 I am Cam 😀
 
-🏗 Data Engineer/Analyst, 🐍 Python Programmer, ✌️Open Source/Data advocate, & part time 🌏 Geospatial enthusiast.
+🏗 Data Engineer/Analyst, 🐍 Python Programmer, ✌️Open Source/Data advocate, & part time 🌏 Geospatial enthusiast.\
 🔭 I am mostly working on automating data workflows, and general software and data engineering.\
 🌱 I’m currently doing my best to help build tools and tools to help the GLA work smarter.\
   
