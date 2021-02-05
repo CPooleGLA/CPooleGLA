@@ -4,7 +4,7 @@
 
 🏗 Data Engineer/Analyst,\
 🐍 Python Programmer, \
-✌️Open Source/Data advocate, \
+✌️ Open Source/Data advocate, \
 & 🌏 Geospatial enthusiast.
 
 🔭 I am currently working on automating data workflows, and general software and data engineering.\
